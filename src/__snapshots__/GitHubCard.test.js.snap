@@ -1,0 +1,82 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  style={
+    Object {
+      "backgroundColor": "lightcoral",
+      "padding": "2em",
+    }
+  }
+>
+  <div
+    className="card bg-light border-secondary"
+    style={
+      Object {
+        "width": "20rem",
+      }
+    }
+  >
+    <img
+      className="card-img-top"
+      src="GitHubAvatar.png"
+    />
+    <div
+      className="card-body"
+    >
+      <div
+        className="card-title h5"
+      >
+        Lisa Brown
+      </div>
+      <p
+        className="primary card-text"
+      >
+        Full Stack Software Engineer
+      </p>
+    </div>
+    <div
+      className="list-group list-group-flush"
+      onKeyDown={[Function]}
+    >
+      <div
+        className="list-group-item"
+        data-rr-ui-event-key={null}
+        onClick={[Function]}
+      >
+        React-Redux
+      </div>
+      <div
+        className="list-group-item"
+        data-rr-ui-event-key={null}
+        onClick={[Function]}
+      >
+        JavaScript
+      </div>
+      <div
+        className="list-group-item"
+        data-rr-ui-event-key={null}
+        onClick={[Function]}
+      >
+        REST Applications
+      </div>
+    </div>
+    <div
+      className="card-body"
+    >
+      <a
+        className="card-link"
+        href="https://github.com/librown360"
+      >
+        GitHub
+      </a>
+      <a
+        className="card-link"
+        href="https://www.linkedin.com/in/lisa-a-brown-testing123/"
+      >
+        LinkedIn
+      </a>
+    </div>
+  </div>
+</div>
+`;
